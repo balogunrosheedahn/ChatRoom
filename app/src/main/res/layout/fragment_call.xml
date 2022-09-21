@@ -12,6 +12,7 @@
         android:textSize="32dp"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:text="Calls" />
+        android:text="Calls"
+        android:layout_marginTop="50dp"/>
 
 </FrameLayout>
